@@ -4,11 +4,11 @@
 
 This code was originally developed by:
 
-Programmer: Jeroen Janssen [aka Xan]
+Programmer: Jeroen Janssen (aka Xan)
 
-         Kurt Eckhardt(KurtE) converted to C and Arduino
+Kurt Eckhardt(KurtE) converted to C and Arduino
          
-   Kare Halvorsen aka Zenta - Makes everything work correctly!    
+Kare Halvorsen aka Zenta - Makes everything work correctly!    
    
    
 PS2 Arduino Library
